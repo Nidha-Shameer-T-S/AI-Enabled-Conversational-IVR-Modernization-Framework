@@ -11,3 +11,11 @@ The framework ensures a smooth transition from menu-driven workflows to dynamic,
 
 - Modernize legacy VXML-based IVR systems
 - Integrate Conversational AI (ACS/BAP)
+
+## 🔍 Key Components
+
+### 1️⃣ Legacy IVR System
+- Built using VoiceXML (VXML)
+- Menu-driven navigation
+- DTMF-based interaction
+- Backend API connectivity
